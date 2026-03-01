@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\bin\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.exe
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\bin\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.deps.json
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\bin\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.runtimeconfig.json
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\bin\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.dll
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\bin\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.pdb
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\_2409106106_DzakiMubarak_C2_24.Form1.resources
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.sourcelink.json
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.dll
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\refint\2409106106_DzakiMubarak_C2'24.dll
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.pdb
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\2409106106_DzakiMubarak_C2'24.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\2409106106_DzakiMubarak_C2'24\2409106106_DzakiMubarak_C2'24\obj\Debug\net10.0-windows\ref\2409106106_DzakiMubarak_C2'24.dll
